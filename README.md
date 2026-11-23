@@ -8,6 +8,8 @@ A Spring Boot backend platform (`AiLearningPlatformApplication`) built for AI-as
 ## Architecture
 
 ![AI Skill Gap Analysis & Personalised Learning Roadmap Architecture](docs/architecture.png)
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/c30cb745-f0f6-421f-894b-b9fe9c2cc758" />
+
 
 ## Key Modules & Features
 
